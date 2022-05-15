@@ -1,7 +1,7 @@
 {
   "name": "@dinush/srilankan-phone-number-validator",
   "version": "1.0.3",
-  "description": "",
+  "description": "This package validates all Sri Lankan phone numbers including mobile and landline numbers.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/dinushchathurya/srilankan-phone-number-validator.git"
   },
+  "keywords": [
+    "npm",
+    "validate phone",
+    "srilankan phone validator",
+    "phone validator",
+    "phone numbers",
+    "validate srilankan phone number",
+    "mobile",
+    "validator",
+    "srilankan phone number validator",
+    "dinushchathurya",
+    "dinush chathurya"
+  ],
   "author": "Dinush Chathurya",
   "license": "MIT",
   "bugs": {
