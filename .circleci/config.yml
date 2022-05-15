@@ -12,6 +12,6 @@ jobs:
 workflows:
   say-hello-workflow:
     jobs:
-      - say-
+      - say-hello
       
 
